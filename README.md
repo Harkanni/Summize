@@ -4,6 +4,9 @@
 ![Summize Demo](https://github.com/Harkanni/SummizeDist/blob/main/summize.png)
 Simplify your reading experience with Summize, an innovative open-source project powered by OpenAI's GPT-4. This repository hosts the codebase for an intelligent article summarizer that harnesses the capabilities of cutting-edge AI technology to condense lengthy articles into clear and concise summaries.
 
+## DEMO
+[Demo](./vid.mp4)
+
 ## 🔍 Key Features:
 
 - Leverage the power of OpenAI GPT-4 to generate accurate and coherent article summaries. 🧠✍️
